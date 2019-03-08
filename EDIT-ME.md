@@ -12,6 +12,8 @@ This is part of my topic branch update!
 
 This is another part of my topic branch update!
 
-This line was added after the GREATE REVERT!!!
+This line was added after the GREAT REVERT!!!
 
 Line added after the great PR FAILURE!!!
+
+Another line after PR failure could not be figured out.
